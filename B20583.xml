@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The complaint of Mrs. Celiers and the Jesuits in Newgate to the E. of D. and the lords in the Tower concerning the discovery of their new sham-plot.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20583</idno><idno type="EEBO-CITATION">15509190</idno>
+  <idno type="VID">200540</idno>
+  <idno type="EEBO-PROQUEST">2240849918</idno>
+  
+            <idno type="STC">Wing C5613</idno>
+            <idno type="OCLC">15509190</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200540)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The complaint of Mrs. Celiers and the Jesuits in Newgate to the E. of D. and the lords in the Tower concerning the discovery of their new sham-plot.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Bensk[?]ns ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; date suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Leeds, Thomas Osborne, --  Duke of, 1631-1712.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="complaint">
+            <pb facs="tcp:200540:1"/>
+            <pb facs="tcp:200540:1"/>
+            <head>THE COMPLAINT OF M<seg rend="sup">rs.</seg> CELIERS, AND THE Jesuits in Newgate, TO The E. of <hi>D.</hi> and the Lords in the TOWER, Concerning the Discovery of their <hi>New Sham-Plot.</hi>
+            </head>
+            <p>WHAT think you now, my most politick <hi>Lords?</hi> the cow<g ref="char:EOLhyphen"/>ardly Rogue <hi>Macgraff</hi> has confest all? Had not our dear Fa<g ref="char:EOLhyphen"/>thers so often inculcated into me in this our retirement, that the power of the <hi>Pope</hi> our most holy Father, is on Earth, much greater than God Almighty's? and that he has solely left the Rule of this World to him, and his most adored <hi>Infallibility,</hi> I should begin to suspect by these strange and fatal, and frequent detections and discoveries of our Mines; that there was some Titular Angel belong'd to these Hereticks called Protestants, or that this <hi>Islands Genius</hi> stood in opposition to our endeavours, of bringing it un<g ref="char:EOLhyphen"/>der the power of the Tripple Crown, or else that the thing I have heard some fools talk of, called Divine <hi>Providence,</hi> was our Enemy: I confess to you my dear Popish Lords, and you my dear Protestant professing, popishly affected E. of <hi>D.</hi> as well as to our dear and holy Fathers our Priests, that sometimes I have some such little puny thoughts, or gentle qualms of Conscience; but I quickly pass it over, and am again confirmed by my dear and most holy Fathers, who send you their Benediction, that these are but cunning slights and tricks of the Devil, who sometimes will oppose our pious designs, out of meer design to shew his power, and to ingratiate himself with us, and to endear himself the more to us, having been indeed a most professed Friend to our holy See. One Father <hi>H.</hi> whom you all know, has made his Orisons to his most infallible Oracle the inspired Prophet <hi>G.</hi> who has cast a Scheam, and he assures us we were over hasty in our discovery to <hi>Macgraff;</hi> for had we stayed but three mi<g ref="char:EOLhyphen"/>nutes longer, ere we had proposed our design to him, it had infallibly taken ef<g ref="char:EOLhyphen"/>fect, and we had most gloriously, and to our eternal Fame, sham'd the <hi>Presby<g ref="char:EOLhyphen"/>terians,</hi> fool'd <hi>Providence,</hi> deceived <hi>Englands Guardian</hi> Angel, and all Protect<g ref="char:EOLhyphen"/>ours whatsoever; for as ill luck would have it, <hi>Pluto</hi> was busie at that instant with <hi>Proserpina,</hi> and neither thought of us, or his dear Allies Concerns; but he has sent us word, that this would soon blow over, and that he should not de<g ref="char:EOLhyphen"/>spair of effecting the next Design, which we may go about as soon as ever <hi>Scorpio</hi> layes his left Claw in the House of <hi>Pisces.</hi> You know the Devil and Woman may do much, they once confounded a World, then sure the Devil, the Pope, the
+<pb facs="tcp:200540:2"/> Jesuit, the politique <hi>D.</hi> and a Woman, may ruine one poor silly Heretical <hi>Island.</hi> I swell with Indignation to find my self thus out-witted, and had I the strength of the old Gyants, I'de pull <hi>Jupiter</hi> out of his Throne, but I'de have my Will.</p>
+            <p>Well, my dear and Honoured Lords, and you my dear Lord <hi>P.</hi> for whom I have a particular respect, what next is to be done? I am afraid this Sham is quite broken, and can never be piec'd again, about the murthered Knight; we intend shortly to have a general Consult here, about another Plot, in which I am to sit President, and which I need not be ashamed to own to you, since one of my Sex to our Glory and Renown, once possess'd the Infallible Chair, and was a She-God, or Goddess on Earth; and I hope if I can bring the next design about, that I may come to be Archbishopess of this <hi>Island,</hi> for according to the predictions of our Friend <hi>G.</hi> who has cast my Nativity, I am to be highly exalted. We shall advise you of the precise minute of our meeting, that you also may lay your heads together at the same time. We have sent away to <hi>Rome</hi> to our Holy Fa<g ref="char:EOLhyphen"/>ther, that he should make his Complaint to <hi>Lucifer,</hi> that those his infernal work<g ref="char:EOLhyphen"/>men should be punished, for sending us Consciences that were not proof a<g ref="char:EOLhyphen"/>gainst Fear. For our Tool <hi>Macgraff</hi> was not double steel'd with Impudence, as he ought to have been; for if he had, he had out-fac'd all proofs with an Oath, let them have said what they will.</p>
+            <p>I have not seen our Fathers so much disturbed a good while, but are indeavou<g ref="char:EOLhyphen"/>ring to wash it down; now it would be worthy our selves, if after all this we could persuade our Followers, Party, and Well-wishers, to believe that this <hi>Macgraff</hi> is a Tool of the <hi>Hereticks,</hi> and by them hired to put this Trick upon us. Something of this Nature must be done, for if we don't still appear Innocent, many will break off from us. We must not now let fall our Spirits, therefore we all desire you will send us, by your wonted Messenger, a purse at this time to chear our Hearts, and to inspire us anew for some glorious design.</p>
+            <p>We have been endeavouring after some Miracle, to assert our Innocency, and the Truth of our Cause, but we find it not as yet very feasible, and our Fathers complain, that the Hereticks want the Devotion of Ignorance; being so subtil, that unless we can outdoe all that yet has been performed in that nature, we cannot think to prosper. I am still for following our old way, and for springing a new Mine, we shall fall to digging again. The three Scribling Fathers are al<g ref="char:EOLhyphen"/>most blind with writing, and drinking, and their Provence is well manag'd. You know they have several weekly Pamphlets, that come forth with Protestant Fa<g ref="char:EOLhyphen"/>ces, which have done us no small service, besides those others by the by, you must therefore encourage them, grease them well, that the wheels may runglib.</p>
+            <p>We have now more need than ever of that most useful Art of Conjuration, exercised by several of our Infallible Heads, and the Fathers have convinc'd me of the necessity of that Art, to be perpetually annexed to that See, to maintain itself in this latter Age, in which, Eyes are more open than in the days of old. We cannot but admire, that <hi>Lucifer</hi> should be so shy of Communicating those his beloved Secrets, but to some particular Persons. <hi>Innocent</hi> now wants the true knowledge, and help of that useful Art Magick, as much to keep the Chair, as ever <hi>Silvester</hi> did to get into it. We must have one skil'd in the Black Art, to help us, wherever he is to be had, and then we will raise up the Knight's Ghost, whose black Murther has Created us all this Trouble, and he shall come himself, and swear, that he hang'd himself, and that his Brother run him thorow after he was dead, and put it upon the Innocent <hi>Papists.</hi> We have sent to <hi>Rome</hi> about it, and as soon as we receive answer from thence you shall be certified. We hope our Friend the Infernal Prince will be helpful to us in this last shift, or else we shall dispair: we likewise desire that some few places of <hi>Scripture</hi> may be also ex<g ref="char:EOLhyphen"/>pung'd, which sayes, <hi>a Murtherer shall be put to death,</hi> and that <hi>no satisfaction be taken for the life of a Murtherer, Numb.</hi> 35. and this we have done chiefly, for the <hi>E.</hi> of <hi>D.</hi> sake:</p>
+            <closer>
+               <dateline>From our Colledge <date>this last of <hi>May, &amp;c.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Benskins</hi> in St. <hi>Brides Church-yard.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
